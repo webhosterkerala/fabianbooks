@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome to Fabian Book!" />
         <p className="description">
           Mavelikkara <code> Kerala </code>
-        </p><br>
+        </p>
         <h1>We will be UP Soon!</h1>
       </main>
 
