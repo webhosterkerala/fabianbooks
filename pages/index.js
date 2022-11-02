@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Mavelikkara <code> Kerala </code>
         </p>
-        <h1>We will be UP Soon!</h1>
+        <h3>We will be UP Soon!</h3>
       </main>
 
       <Footer />
