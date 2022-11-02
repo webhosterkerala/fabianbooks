@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Fabian Books!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -14,7 +14,8 @@ export default function Home() {
         <Header title="Welcome to Fabian Book!" />
         <p className="description">
           Mavelikkara <code> Kerala </code>
-        </p>
+        </p><br>
+        <h1>We will be UP Soon!</h1>
       </main>
 
       <Footer />
